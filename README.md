@@ -1,6 +1,6 @@
-# webapp
+# hotShop
 
-> A Vue.js project
+> Vue 单页面应用
 
 ## Build Setup
 
